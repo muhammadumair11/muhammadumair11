@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">i LOVE PROGRAMMING - PHILOSOPHY - READING</h3>
+<h3 align="center">PROGRAMMING - PHILOSOPHY - READING</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumair11" alt="muhammadumair11" /></a> </p>
 
